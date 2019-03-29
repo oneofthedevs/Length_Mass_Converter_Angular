@@ -1,1 +1,61 @@
 /* You can add global styles to this file, and also import other style files */
+body
+{
+    height: 100%;
+    background-color: burlywood;
+    margin: 0 auto;
+}
+.inputarea
+{
+    padding-top: 30px; 
+    text-align: center;
+}
+.valuein
+{
+    width: 250px;
+    border: 1px solid darkslategray;
+}
+.martp30{
+    margin-top: 20px;
+}
+
+.martp60{
+    margin-top: 60px;
+}
+.br1{
+    border: 1px solid darkslategray;
+}
+.btn
+{
+    border: 0;
+    background-color: darkslategray;
+    color: aliceblue;
+    border-radius: 0;
+}
+.btn:hover{
+    color: aliceblue;
+}
+.textc
+{
+    text-align: center;
+}
+.optionmenu
+{
+    border: 1px solid darkslategray;
+    height: 30px;
+    width: 250px;
+    margin-left: 5%; 
+}
+.opt
+{
+    font-size: 28px;
+}
+.justc
+{
+    justify-content: center;
+}
+
+.boldd
+{
+    font-weight: bold;
+}
